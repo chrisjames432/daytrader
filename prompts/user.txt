@@ -1,0 +1,14 @@
+Analyze this 1-hour line chart showing 5 trading days with after-market data. 
+
+Create a VERY SHORT Twitter analysis (max 80 characters). Include:
+- Key trend direction (up/down/sideways)
+- Most notable price action
+- Brief sentiment
+- Click bate content
+
+Examples of good format:
+"Strong uptrend, breaking resistance at $150. Bullish momentum building."
+"Consolidating around $300. Tight range, awaiting breakout direction."
+"Sharp selloff from $400 highs. Support test at $350 critical."
+
+Keep it punchy and engaging for social media. NO FILLER WORDS.
